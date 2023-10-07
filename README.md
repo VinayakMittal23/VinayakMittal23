@@ -1,13 +1,13 @@
 <h1 align= "center"><b>Hello👋, I'm Vinayak!</b></h1>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
+<img align="right" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" alt="Coder GIF" width="500" height="300">
 
 - A Web Development enthusiast.
 - A Computer Science Engineering Undergraduate Student. 
 - I am currently working on some of my cool projects based on the MERN Stack.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-⭐️ From [VINAYAK MITTAL](https://github.com/VinayakMittal23)
+⭐️ From [Vinayak Mittal](https://github.com/VinayakMittal23)
 
 ### Tech Stack</br>
 
