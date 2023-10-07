@@ -1,4 +1,4 @@
-<h1 align= "center"><b>नमस्ते (Namaste)🙏🏻, I'm Yash!</b></h1>
+<h1 align= "center"><b>Hello, I'm Vinayak!</b></h1>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
 
@@ -7,7 +7,7 @@
 - I am currently working on some of my cool projects based on the MERN Stack.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-⭐️ From [YASH KABRA](https://github.com/YashKabra11)
+⭐️ From [VINAYAK MITTAL](https://github.com/VinayakMittal23)
 
 ### Tech Stack</br>
 
