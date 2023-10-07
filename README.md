@@ -1,6 +1,6 @@
 <h1 align= "center"><b>Hello👋, I'm Vinayak!</b></h1>
 
-<img align="right" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" alt="Coder GIF" width="500" height="300">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="300">
 
 - A Web Development enthusiast.
 - A Computer Science Engineering Undergraduate Student. 
