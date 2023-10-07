@@ -1,6 +1,6 @@
 <h1 align= "center"><b>Hello👋, I'm Vinayak!</b></h1>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="300">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="400" height="300">
 
 🌐 A Web Development enthusiast.
 
@@ -9,6 +9,7 @@
 ⚛️ I am currently working on some of my cool projects based on the MERN Stack.
 
 🔎 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+
 
 ⭐️ From [Vinayak Mittal](https://github.com/VinayakMittal23)
 
