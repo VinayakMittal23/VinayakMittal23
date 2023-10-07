@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Hello, I'm Vinayak!</b></h1>
+<h1 align= "center"><b>Hello👋, I'm Vinayak!</b></h1>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
 
