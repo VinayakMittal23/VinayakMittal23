@@ -6,7 +6,7 @@
 
 💻 A Computer Science Engineering Undergraduate Student. 
 
-⚛️ I am currently working on some of my cool projects based on the MERN Stack.
+⚛️ I am currently working on some of my cool projects.
 
 🔎 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
@@ -25,6 +25,3 @@
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 
 [![React](http://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
-[![Node.js](http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](http://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
