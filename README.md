@@ -23,5 +23,4 @@
 
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-
 [![React](http://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
